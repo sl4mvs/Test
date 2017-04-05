@@ -1,6 +1,2 @@
 1234
-<<<<<<< HEAD
-new editing
-=======
-edited
->>>>>>> branch1
+editedast 
